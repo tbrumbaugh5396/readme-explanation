@@ -1,4 +1,9 @@
-# Table of Contents
+# README Explanation
+
+## Introduction
+
+## Table of Contents
+* [Introduction](#introduction)
 * [Table of Contents](#Table-of-Contents)
 * [README-introduction](#README-introduction)
 * [From Wikipedia README article](#From-Wikipedia-README-article)
